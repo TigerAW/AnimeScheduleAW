@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-Mc9xk7N0hqJQd9SrXtgbse1+ZeA0Da9vr9RjZ5Bun5A=",
+      "hash": "sha256-lTBHY3w3uHN9UcZb8xKTEGNp830c21XSSv5i8untNGc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-xe1eAFx3kG9lbbSHOm1sGMnbzh+h4OTMs2R6Ao2fUdI=",
+      "hash": "sha256-6BGwTjqGaBkkLuglFzmj4xZ8FqPwp9jELrGgLrqVRu0=",
       "url": "_framework\/AnimeScheduleAW.dll"
     },
     {
@@ -229,5 +229,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "hPZxgNcp"
+  "version": "6h6iRWn2"
 };
