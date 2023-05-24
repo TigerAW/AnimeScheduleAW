@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "AnimeScheduleAW.dll": "sha256-WgLEX\/fIlUmmK3hRJ2oKJuiZwXA9SrSIDixMOm6aE9k=",
+      "AnimeScheduleAW.dll": "sha256-8pgl7YAmy2yKBZmmz+uVPjwxFM5RZYTb4JmWGg3t+i4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-iebw6gul+lVn+ZQxoSrmDU0yGBJVkP8iJbSOtoTkJ\/0=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-PSWW+AMMyYy6ceznG4JFR03IfHljgrVem561PnAjGp4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-IiCeDD2\/cESvpd281cmPUvaLlj5RlX\/Gy2c0FzTfcec=",
@@ -31,7 +31,7 @@
       "System.Net.Primitives.dll": "sha256-voTFtlTk65vDMKp27+l6klBwL2L\/uEnrSfIHCdq+7Lg=",
       "System.Private.CoreLib.dll": "sha256-jJC8P6xEZYtCBlChiEhbk0aU9PB0H1CHCAIxeOScww4=",
       "System.Private.Uri.dll": "sha256-iFXnMeYTYSSmkMzEcQU6N6aWTv1xajuSoWbj0Yns0Vk=",
-      "System.Runtime.dll": "sha256-Yz4cbv6ooV7NzIIgKfNrzjd5TdZI2JYKXNklVEPehtM=",
+      "System.Runtime.dll": "sha256-aRS4MIJSfXjse8vM4iJ7XWkeiJIm5TwTft3rIdOaeZA=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-9I2mFHhi\/4zjHBgFGOvdOTpQG2E6UrFCYUg6\/pEUgeo=",
       "System.Text.Encodings.Web.dll": "sha256-dBAu8sl6qcNjD5aAePrxOnRjOf3o+OZvh4IohTnfsNE=",
       "System.Text.Json.dll": "sha256-tDYWzSpft+uJAAtHrhE9aohApctvWGyWJu\/9wIgnm\/o="
