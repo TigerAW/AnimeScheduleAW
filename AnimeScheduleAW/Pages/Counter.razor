@@ -24,6 +24,6 @@
 
     private async Task SaveCountToCookie()
     {
-        await JSRuntime.InvokeVoidAsync("document.cookie", $"CountCookie={currentCount}; expires=Fri, 31 Dec 9999 23:59:59 GMT");
+        await JSRuntime.InvokeVoidAsync("setCookie", "CountCookie", currentCount.ToString(), 7);
     }
 }
