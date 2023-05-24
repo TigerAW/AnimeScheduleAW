@@ -1,5 +1,5 @@
 ﻿@page "/counter"
-
+@using Microsoft.JSInterop
 <PageTitle>Counter</PageTitle>
 
 <h1>Counter</h1>
@@ -9,10 +9,23 @@
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
 @code {
+
     private int currentCount = 0;
 
-    private void IncrementCount()
+    [Inject]
+    public IJSRuntime JSRuntime { get; set; }
+
+
+    private async Task IncrementCount()
     {
         currentCount++;
+        await SaveCountToCookie();
     }
+
+    
+    private async Task SaveCountToCookie()
+    {
+            await JSRuntime.InvokeVoidAsync("document.cookie", $"CountCookie={currentCount}; expires=Fri, 31 Dec 9999 23:59:59 GMT");
+    }
+   }
 }
