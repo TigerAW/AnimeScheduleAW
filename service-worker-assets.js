@@ -33,15 +33,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-lTBHY3w3uHN9UcZb8xKTEGNp830c21XSSv5i8untNGc=",
+      "hash": "sha256-He3ZNpVc9koCJYBNK7ndX+6w15BwKjTYrRK34mHebcQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-6BGwTjqGaBkkLuglFzmj4xZ8FqPwp9jELrGgLrqVRu0=",
+      "hash": "sha256-TTskrBsYGgNFy0MvpuprUCYuTyL07LhmmJl\/InyRRHo=",
       "url": "_framework\/AnimeScheduleAW.dll"
     },
     {
-      "hash": "sha256-3xjXQVaH03HFZb3BPPTfv5Zr\/c6JDev8DSUZpBFPRA8=",
+      "hash": "sha256-iebw6gul+lVn+ZQxoSrmDU0yGBJVkP8iJbSOtoTkJ\/0=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-Z14f551tQFkaV++1bdeBvGmc2uAhRZIQkhsR0C4V0vI=",
+      "hash": "sha256-Yz4cbv6ooV7NzIIgKfNrzjd5TdZI2JYKXNklVEPehtM=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -229,5 +229,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "6h6iRWn2"
+  "version": "FOF3s4e0"
 };
