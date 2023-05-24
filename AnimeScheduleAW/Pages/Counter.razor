@@ -16,6 +16,11 @@
     [Inject]
     public IJSRuntime JSRuntime { get; set; }
 
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCountFromCookie();
+    }
+
     private async Task IncrementCount()
     {
         currentCount++;
@@ -25,5 +30,14 @@
     private async Task SaveCountToCookie()
     {
         await JSRuntime.InvokeVoidAsync("setCookie", "CountCookie", currentCount.ToString(), 7);
+    }
+
+    private async Task LoadCountFromCookie()
+    {
+        var cookieValue = await JSRuntime.InvokeAsync<string>("getCookie", "CountCookie");
+        if (!string.IsNullOrEmpty(cookieValue) && int.TryParse(cookieValue, out int count))
+        {
+            currentCount = count;
+        }
     }
 }
