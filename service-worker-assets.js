@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-PbYexd3PUly6DlKHtLAXrXcG1OinJW\/+E2anNLluyP4=",
+      "hash": "sha256-w\/FhN7Z+QNL5kQ\/rZS+D6g7Y+pUP42xNGfi2TyGiME8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-8pgl7YAmy2yKBZmmz+uVPjwxFM5RZYTb4JmWGg3t+i4=",
+      "hash": "sha256-9BCHcfUT+Q3EJz58ZtVZkG8gi\/pGjtsm2f0LU2tcuL4=",
       "url": "_framework\/AnimeScheduleAW.dll"
     },
     {
@@ -125,7 +125,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-jJC8P6xEZYtCBlChiEhbk0aU9PB0H1CHCAIxeOScww4=",
+      "hash": "sha256-qiW+Xvy3nPatjC9JCiFvpP0DX6+64oux9wr4QzTNMDs=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-aRS4MIJSfXjse8vM4iJ7XWkeiJIm5TwTft3rIdOaeZA=",
+      "hash": "sha256-ai6LgQ+j\/ukFUHuJSy6jijuT3NAoV1QfifYx9gejSlU=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -217,7 +217,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-+ZTjtzJO6s\/Loxlkew2E5JJw5AmlqDOJlk+mopXz6GU=",
+      "hash": "sha256-kTuhXpGjIieGUzyZ6Pbo6teXwFZfQZTUCiCJB3SwSE4=",
       "url": "index.html"
     },
     {
@@ -229,5 +229,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "U65wPcrQ"
+  "version": "uc2+QLim"
 };
