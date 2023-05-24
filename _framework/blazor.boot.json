@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "AnimeScheduleAW.dll": "sha256-TTskrBsYGgNFy0MvpuprUCYuTyL07LhmmJl\/InyRRHo=",
+      "AnimeScheduleAW.dll": "sha256-WgLEX\/fIlUmmK3hRJ2oKJuiZwXA9SrSIDixMOm6aE9k=",
       "Microsoft.AspNetCore.Components.dll": "sha256-iebw6gul+lVn+ZQxoSrmDU0yGBJVkP8iJbSOtoTkJ\/0=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-PSWW+AMMyYy6ceznG4JFR03IfHljgrVem561PnAjGp4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-IiCeDD2\/cESvpd281cmPUvaLlj5RlX\/Gy2c0FzTfcec=",
