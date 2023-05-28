@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-VFi59jcYYXq8hFV541a8ifOC8ahth2qpYfsAQT2rXAM=",
+      "hash": "sha256-OXMpwXoPIounWistZfqwM8M5LYMiO6LxmuEMbPMV56s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-K7ZfeB3izzaxbQ2uIeiQlHsBi3ngu5HIO8ehbGoC\/yM=",
+      "hash": "sha256-ieIK8Pcq5wiRRzzo4PEbkrjI+WJf9eB8shpqGQXJTG4=",
       "url": "_framework\/AnimeScheduleAW.dll"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/System.Collections.Concurrent.dll"
     },
     {
-      "hash": "sha256-exVEYxnZObaPxRBfHmAHR9CJ2JQJiqIhsvFQXc0TPng=",
+      "hash": "sha256-uS\/RtmCKgqPp9Y+Nc4Y86uJyN6eSlsjayOgHsKO1Wa8=",
       "url": "_framework\/System.Collections.dll"
     },
     {
@@ -109,15 +109,11 @@
       "url": "_framework\/System.ComponentModel.dll"
     },
     {
-      "hash": "sha256-ZgcjDTcmfuwOpq62vt8mjqWbhUrOuKjpsEx8GKi\/bMo=",
-      "url": "_framework\/System.Linq.dll"
-    },
-    {
       "hash": "sha256-JXImOhG2oDuiRYqFJcwoBXPI04+Wgv9+8NqWpM0\/Mxo=",
       "url": "_framework\/System.Memory.dll"
     },
     {
-      "hash": "sha256-PBETf8nYmDewPpfGVQ6njxE8voyXx41+aju20dv0\/BA=",
+      "hash": "sha256-h3yDBeZiOGTsjwEdxrbcuMBJQVlnV9kvIiEPyXrLgaM=",
       "url": "_framework\/System.Net.Http.dll"
     },
     {
@@ -129,7 +125,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-cYEWm\/dssPyTDU++G0V6Q+ri8y1uF46Kcwo\/9tVDSF0=",
+      "hash": "sha256-VTHnzoVBwTvbVz9jUDgsMeyp1OTyxLEB3NX2vcyEpNs=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -137,7 +133,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-XsLG6vv\/k4vLZxSNJY0bYg1GS4LZYGBngq3grVAuKw8=",
+      "hash": "sha256-wCVmDICad5HDK5+rIwsHkLU1FfAQ56WWVl5kSxFY7cQ=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -149,7 +145,7 @@
       "url": "_framework\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-d5cYqfxav97YgFbTrH5AuLwofYV\/j0ToenJLFk+y4BE=",
+      "hash": "sha256-tDYWzSpft+uJAAtHrhE9aohApctvWGyWJu\/9wIgnm\/o=",
       "url": "_framework\/System.Text.Json.dll"
     },
     {
@@ -233,5 +229,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "RZW3ahUq"
+  "version": "heiZevs8"
 };
